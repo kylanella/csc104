@@ -1,0 +1,11 @@
+header{
+    margin: 0;
+    padding: 0;
+    display: block;
+    enable-background:accumulate;
+    background: fixed;
+    background-image: url(./Images/Brown\ Main\ Header.jpg);
+    height: 200px;
+    background-position: center;
+    text-align: center;
+}
