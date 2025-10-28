@@ -9,3 +9,18 @@ header{
     background-position: center;
     text-align: center;
 }
+
+main{
+    margin: 0;
+    padding: 0;
+    display: block;
+    enable-background:accumulate;
+    background: fixed;
+    background-image: url(./Images/Light\ Brown\ Background.jpg);
+    height: 600px;
+    background-position: center;
+    text-align: center;
+}
+table{
+    text-align: center;
+}
